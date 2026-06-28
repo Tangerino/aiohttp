@@ -1,8 +1,8 @@
 # aiohttp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
-[![MicroPython 1.18+](https://img.shields.io/badge/micropython-1.18+-blue.svg)](https://micropython.org/)
+[![CPython 3.13](https://img.shields.io/badge/CPython-3.13-blue.svg)](https://www.python.org/downloads/)
+[![MicroPython 1.26](https://img.shields.io/badge/MicroPython-1.26-blue.svg)](https://micropython.org/)
 
 **An async HTTP + WebSocket client that runs unchanged on CPython and MicroPython — one small file, no dependencies.**
 
