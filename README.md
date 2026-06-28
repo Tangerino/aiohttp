@@ -66,6 +66,8 @@ async with aiohttp.ClientSession() as session:
 ```
 
 This runs identically under `python hello.py` on your PC and on an ESP32 over WiFi.
+A complete, runnable tour of the API — GET/POST, params, custom headers, timeouts and
+WebSocket — is in **[`example.py`](example.py)** (`python example.py`).
 
 ## Install
 
