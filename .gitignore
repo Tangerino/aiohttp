@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtualenv / tooling
+.venv/
+venv/
+
+# Editors / IDEs
+.idea/
+.vscode/
+
+# Claude Code
+.claude/
+
+# Local secrets (this project keeps config inline; never commit real credentials)
+.env
