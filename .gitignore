@@ -17,3 +17,6 @@ venv/
 
 # Local secrets (this project keeps config inline; never commit real credentials)
 .env
+
+# Local scratch / announcement drafts
+discord_post.md
